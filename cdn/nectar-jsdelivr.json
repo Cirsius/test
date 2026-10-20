@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@6ce93c7cf9a3f66650d1434c8cbcb0f6308552b5/cdn",
+  "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@6e23601f050ff1bd5ec4294b93aa1d7ab213e03d/cdn",
   "build": {
     "version": 3,
     "revision": "5a949e5c9cf1",
@@ -48,123 +48,153 @@
     },
     "rom/part-00001.bin": {
       "bytes": 19000000,
-      "sha256": "931fd7e7102ad1c96e5afc9f5443d9e54ed760992c2afbd893e4d9eaf1300efb"
+      "sha256": "931fd7e7102ad1c96e5afc9f5443d9e54ed760992c2afbd893e4d9eaf1300efb",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@89380273c93931ab87959ec5d255c1fd766fc1fd/cdn"
     },
     "rom/part-00002.bin": {
       "bytes": 19000000,
-      "sha256": "5c744ad0b2b047b7aa46465e17b8d22c6f97ac35cd15fc75a520d17032704e62"
+      "sha256": "5c744ad0b2b047b7aa46465e17b8d22c6f97ac35cd15fc75a520d17032704e62",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@89380273c93931ab87959ec5d255c1fd766fc1fd/cdn"
     },
     "rom/part-00003.bin": {
       "bytes": 19000000,
-      "sha256": "0290f0bc5e01a87087f48298e627c074974814925e2be14ca5288f638b35000b"
+      "sha256": "0290f0bc5e01a87087f48298e627c074974814925e2be14ca5288f638b35000b",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@5eb971ecab1fddb812b391ab01aa18816017eff4/cdn"
     },
     "rom/part-00004.bin": {
       "bytes": 19000000,
-      "sha256": "adbeef8de2cde9401d5460e04d5d9fd16ea28d0fea506b099be7540da3657945"
+      "sha256": "adbeef8de2cde9401d5460e04d5d9fd16ea28d0fea506b099be7540da3657945",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@5eb971ecab1fddb812b391ab01aa18816017eff4/cdn"
     },
     "rom/part-00005.bin": {
       "bytes": 19000000,
-      "sha256": "cc21e968c7221cfcca2d02afdb57c260fdbd9dcfccf352ab107055f57f457e02"
+      "sha256": "cc21e968c7221cfcca2d02afdb57c260fdbd9dcfccf352ab107055f57f457e02",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@1eb8770109f6db8240628db1df05bcd848127cab/cdn"
     },
     "rom/part-00006.bin": {
       "bytes": 19000000,
-      "sha256": "1bb507647a9475f7de5549c73175aa864174a9bfbb132b50c3add7ae0c161b1d"
+      "sha256": "1bb507647a9475f7de5549c73175aa864174a9bfbb132b50c3add7ae0c161b1d",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@1eb8770109f6db8240628db1df05bcd848127cab/cdn"
     },
     "rom/part-00007.bin": {
       "bytes": 19000000,
-      "sha256": "75861af7b3e56e187369d5ea025839f0e49d6d715c95d57f9d764c2dc5df1142"
+      "sha256": "75861af7b3e56e187369d5ea025839f0e49d6d715c95d57f9d764c2dc5df1142",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@91a030eda28431e11406d28d80002dcb5bd8d7e5/cdn"
     },
     "rom/part-00008.bin": {
       "bytes": 19000000,
-      "sha256": "7b6bf986fcd187ba678abdfd87da145c4cf730ca2cc346560bacb52d631dc15f"
+      "sha256": "7b6bf986fcd187ba678abdfd87da145c4cf730ca2cc346560bacb52d631dc15f",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@91a030eda28431e11406d28d80002dcb5bd8d7e5/cdn"
     },
     "rom/part-00009.bin": {
       "bytes": 19000000,
-      "sha256": "f6506c2eb60bf40a0e113fbf74ee88f522566c0c9ce94328ca8a8a1b4827c3a0"
+      "sha256": "f6506c2eb60bf40a0e113fbf74ee88f522566c0c9ce94328ca8a8a1b4827c3a0",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@8719a929b7bf479495ac1dd47e43271ba3407720/cdn"
     },
     "rom/part-00010.bin": {
       "bytes": 19000000,
-      "sha256": "26ac973ba6d03db4b4669739ec76eef35fb9152eab1a5006775cbcca5fb997db"
+      "sha256": "26ac973ba6d03db4b4669739ec76eef35fb9152eab1a5006775cbcca5fb997db",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@8719a929b7bf479495ac1dd47e43271ba3407720/cdn"
     },
     "rom/part-00011.bin": {
       "bytes": 19000000,
-      "sha256": "783e707b8ff6972cb6061f7119c03e7bd7ce94d72b5c1b761da5bd5f7b9505d7"
+      "sha256": "783e707b8ff6972cb6061f7119c03e7bd7ce94d72b5c1b761da5bd5f7b9505d7",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@3657de5515930fff8f9543c10d08300c86f1a0cb/cdn"
     },
     "rom/part-00012.bin": {
       "bytes": 19000000,
-      "sha256": "703004c07c0bb2f2bd415f39554103532d06b68e8bc1370582af6fcf6dc33065"
+      "sha256": "703004c07c0bb2f2bd415f39554103532d06b68e8bc1370582af6fcf6dc33065",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@3657de5515930fff8f9543c10d08300c86f1a0cb/cdn"
     },
     "rom/part-00013.bin": {
       "bytes": 19000000,
-      "sha256": "fc930abb72167c236ab96ec84a50659a27b4e08a742b650146cecd771f4e6896"
+      "sha256": "fc930abb72167c236ab96ec84a50659a27b4e08a742b650146cecd771f4e6896",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@7f1b2ba1829794f6555ca7797479f694433ddada/cdn"
     },
     "rom/part-00014.bin": {
       "bytes": 19000000,
-      "sha256": "a18b0f115ff3ee318cd3e141f39fb1cb64b4044b1bcf60fd8a1917eea46faa99"
+      "sha256": "a18b0f115ff3ee318cd3e141f39fb1cb64b4044b1bcf60fd8a1917eea46faa99",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@7f1b2ba1829794f6555ca7797479f694433ddada/cdn"
     },
     "rom/part-00015.bin": {
       "bytes": 19000000,
-      "sha256": "c28abf419d3e0755d10e1a291f811a0dd9cc413f7de8d48e160844b41d1c6032"
+      "sha256": "c28abf419d3e0755d10e1a291f811a0dd9cc413f7de8d48e160844b41d1c6032",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@d27a3cb0c06b993bbbc4812b145239f0d7acbccd/cdn"
     },
     "rom/part-00016.bin": {
       "bytes": 19000000,
-      "sha256": "e13691dba25cae58ff24ba5d7f773b0e55735d9af1772a3aff77943b40920c33"
+      "sha256": "e13691dba25cae58ff24ba5d7f773b0e55735d9af1772a3aff77943b40920c33",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@d27a3cb0c06b993bbbc4812b145239f0d7acbccd/cdn"
     },
     "rom/part-00017.bin": {
       "bytes": 19000000,
-      "sha256": "91c88c91f2958b0d6acb769b6c5f011a343cf08a87d18ba67df359d10ac77221"
+      "sha256": "91c88c91f2958b0d6acb769b6c5f011a343cf08a87d18ba67df359d10ac77221",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@dd4d05075ee57897a5e5bcd864ef014fb374f4fa/cdn"
     },
     "rom/part-00018.bin": {
       "bytes": 19000000,
-      "sha256": "7f3c59cf1e7e82dfc8bde39dd08e2c9bf0d6308bb782453b9b2d83d9ff98e41f"
+      "sha256": "7f3c59cf1e7e82dfc8bde39dd08e2c9bf0d6308bb782453b9b2d83d9ff98e41f",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@dd4d05075ee57897a5e5bcd864ef014fb374f4fa/cdn"
     },
     "rom/part-00019.bin": {
       "bytes": 19000000,
-      "sha256": "2c93433adc22e6dcacc2b75f185d0984a59acbdd4c19ad585c5f2225a683bb12"
+      "sha256": "2c93433adc22e6dcacc2b75f185d0984a59acbdd4c19ad585c5f2225a683bb12",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@3b94cb05cf63f77563e62fadbcc154687249d436/cdn"
     },
     "rom/part-00020.bin": {
       "bytes": 19000000,
-      "sha256": "85d1400cbb531e5e4c6dfd452645e4b93ee9f4b8d6cee327bee9a3bad67599d8"
+      "sha256": "85d1400cbb531e5e4c6dfd452645e4b93ee9f4b8d6cee327bee9a3bad67599d8",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@3b94cb05cf63f77563e62fadbcc154687249d436/cdn"
     },
     "rom/part-00021.bin": {
       "bytes": 19000000,
-      "sha256": "7b86c6e6825dbb12d22a4233ad7b19aae2c728f1a05bb9ac1799fd3ee791853f"
+      "sha256": "7b86c6e6825dbb12d22a4233ad7b19aae2c728f1a05bb9ac1799fd3ee791853f",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@2646ae14ad85bcb82c97d8e30c79dd52eed46dee/cdn"
     },
     "rom/part-00022.bin": {
       "bytes": 19000000,
-      "sha256": "c3ccefa46abed35685f3a6e2773922d356f7a624785ad640dc12c1fa432d2c0f"
+      "sha256": "c3ccefa46abed35685f3a6e2773922d356f7a624785ad640dc12c1fa432d2c0f",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@2646ae14ad85bcb82c97d8e30c79dd52eed46dee/cdn"
     },
     "rom/part-00023.bin": {
       "bytes": 19000000,
-      "sha256": "d2de6e0aaeb7dea4bb2cd2ddc3ebbb50afe9864f31463cf2ca383215aa0ff24c"
+      "sha256": "d2de6e0aaeb7dea4bb2cd2ddc3ebbb50afe9864f31463cf2ca383215aa0ff24c",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@47592d640a75a9ec7263b7658d5578171a5bb303/cdn"
     },
     "rom/part-00024.bin": {
       "bytes": 19000000,
-      "sha256": "46768ac4cbaeebf7887b27b740d0062ee5bcadd746128b7c50836acd5105fd5e"
+      "sha256": "46768ac4cbaeebf7887b27b740d0062ee5bcadd746128b7c50836acd5105fd5e",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@47592d640a75a9ec7263b7658d5578171a5bb303/cdn"
     },
     "rom/part-00025.bin": {
       "bytes": 19000000,
-      "sha256": "24517fedde5f44845a44b7acaef9689b61c343432464b31940fdc7b9ab0eaf86"
+      "sha256": "24517fedde5f44845a44b7acaef9689b61c343432464b31940fdc7b9ab0eaf86",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@19ff70ddf3cba6263a50987b1c58e7d3f409391b/cdn"
     },
     "rom/part-00026.bin": {
       "bytes": 19000000,
-      "sha256": "ebf426c9ad72b88dc09ac72d6647bab5fd21fc14f585d86ff3c879df642df789"
+      "sha256": "ebf426c9ad72b88dc09ac72d6647bab5fd21fc14f585d86ff3c879df642df789",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@19ff70ddf3cba6263a50987b1c58e7d3f409391b/cdn"
     },
     "rom/part-00027.bin": {
       "bytes": 19000000,
-      "sha256": "8d74554ae69b6d278930e49091d7eee6cc33129c050d345dcb3e7702812fd2d9"
+      "sha256": "8d74554ae69b6d278930e49091d7eee6cc33129c050d345dcb3e7702812fd2d9",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@afde139f7e407165eac992c5073fef044a9b254b/cdn"
     },
     "rom/part-00028.bin": {
       "bytes": 19000000,
-      "sha256": "b55f00570e15db94769b01b422c9501b33bbe22b8fd45a4e2c22ed85ec0fb687"
+      "sha256": "b55f00570e15db94769b01b422c9501b33bbe22b8fd45a4e2c22ed85ec0fb687",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@afde139f7e407165eac992c5073fef044a9b254b/cdn"
     },
     "rom/part-00029.bin": {
       "bytes": 19000000,
-      "sha256": "4e3a9564286516799b4be697b7292da4c6a63e9004e0025a6413b8a2183280ee"
+      "sha256": "4e3a9564286516799b4be697b7292da4c6a63e9004e0025a6413b8a2183280ee",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@e980cf0ac126483385f5547c95b9e8d34c4a8160/cdn"
     },
     "rom/part-00030.bin": {
       "bytes": 4216756,
-      "sha256": "fccaa7c7ea1cdd06274cc57f29c77549f18b78fc50016e5eb51450cf87e93705"
+      "sha256": "fccaa7c7ea1cdd06274cc57f29c77549f18b78fc50016e5eb51450cf87e93705",
+      "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@e980cf0ac126483385f5547c95b9e8d34c4a8160/cdn"
     }
   },
   "rom": {
