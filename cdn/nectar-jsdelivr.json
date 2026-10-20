@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "root": "https://cdn.jsdelivr.net/gh/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port@main/dist/jsdelivr/cdn",
+  "build": {
+    "version": 3,
+    "revision": "5a949e5c9cf1",
+    "assetMode": "separate",
+    "textureStorage": "indexeddb",
+    "threaded": false,
+    "discKey": "GPIE01:1",
+    "runtimes": {
+      "GPIE01:1": "nectar.js",
+      "GPIP01:0": "nectar-pal.js"
+    },
+    "game": "pikmin1",
+    "upstream": "270ef2fcb727961bae8679e527be614746f76536",
+    "distribution": "jsdelivr"
+  },
+  "storage": "nectar-jsdelivr-531b749b7e1ccab0",
+  "files": {
+    "nectar-disc-licenses.txt": {
+      "bytes": 817615,
+      "sha256": "2fad9512d804acf8b4ccb60c98afb4e2d8d59983d7fbbf9126df374555c7eb91"
+    },
+    "nectar-disc.js": {
+      "bytes": 71313,
+      "sha256": "2ada84a4457b1d3a2cfa6168e8be7d385911c5d941b18d2b07e54c352b2d5b1a"
+    },
+    "nectar-pal.js": {
+      "bytes": 261148,
+      "sha256": "9693f3ccefa62eda5f7c3ddba9b626fa511cb395036463a7b7e5e7a636fcef1f"
+    },
+    "nectar-pal.wasm": {
+      "bytes": 7142520,
+      "sha256": "e86505ae1393ce5a5c6f83d2f08a55a31ee1706ea07b64e7b340529b4371f895"
+    },
+    "nectar.js": {
+      "bytes": 261144,
+      "sha256": "34658eeea1fc8a45dc2d065b65338bd773b62a2826f06608e98330c92e4a25c3"
+    },
+    "nectar.wasm": {
+      "bytes": 7152884,
+      "sha256": "49b2b7e3803360af59329df7d0b71050da9ae3f85b9c736b616370ecd7cf902d"
+    },
+    "nectar_disc.wasm": {
+      "bytes": 461001,
+      "sha256": "e636139b2f7fd00502ff22c338c8609634efb0c50554448a338ee81d74fab240"
+    },
+    "rom/part-00001.bin": {
+      "bytes": 19000000,
+      "sha256": "931fd7e7102ad1c96e5afc9f5443d9e54ed760992c2afbd893e4d9eaf1300efb"
+    },
+    "rom/part-00002.bin": {
+      "bytes": 19000000,
+      "sha256": "5c744ad0b2b047b7aa46465e17b8d22c6f97ac35cd15fc75a520d17032704e62"
+    },
+    "rom/part-00003.bin": {
+      "bytes": 19000000,
+      "sha256": "0290f0bc5e01a87087f48298e627c074974814925e2be14ca5288f638b35000b"
+    },
+    "rom/part-00004.bin": {
+      "bytes": 19000000,
+      "sha256": "adbeef8de2cde9401d5460e04d5d9fd16ea28d0fea506b099be7540da3657945"
+    },
+    "rom/part-00005.bin": {
+      "bytes": 19000000,
+      "sha256": "cc21e968c7221cfcca2d02afdb57c260fdbd9dcfccf352ab107055f57f457e02"
+    },
+    "rom/part-00006.bin": {
+      "bytes": 19000000,
+      "sha256": "1bb507647a9475f7de5549c73175aa864174a9bfbb132b50c3add7ae0c161b1d"
+    },
+    "rom/part-00007.bin": {
+      "bytes": 19000000,
+      "sha256": "75861af7b3e56e187369d5ea025839f0e49d6d715c95d57f9d764c2dc5df1142"
+    },
+    "rom/part-00008.bin": {
+      "bytes": 19000000,
+      "sha256": "7b6bf986fcd187ba678abdfd87da145c4cf730ca2cc346560bacb52d631dc15f"
+    },
+    "rom/part-00009.bin": {
+      "bytes": 19000000,
+      "sha256": "f6506c2eb60bf40a0e113fbf74ee88f522566c0c9ce94328ca8a8a1b4827c3a0"
+    },
+    "rom/part-00010.bin": {
+      "bytes": 19000000,
+      "sha256": "26ac973ba6d03db4b4669739ec76eef35fb9152eab1a5006775cbcca5fb997db"
+    },
+    "rom/part-00011.bin": {
+      "bytes": 19000000,
+      "sha256": "783e707b8ff6972cb6061f7119c03e7bd7ce94d72b5c1b761da5bd5f7b9505d7"
+    },
+    "rom/part-00012.bin": {
+      "bytes": 19000000,
+      "sha256": "703004c07c0bb2f2bd415f39554103532d06b68e8bc1370582af6fcf6dc33065"
+    },
+    "rom/part-00013.bin": {
+      "bytes": 19000000,
+      "sha256": "fc930abb72167c236ab96ec84a50659a27b4e08a742b650146cecd771f4e6896"
+    },
+    "rom/part-00014.bin": {
+      "bytes": 19000000,
+      "sha256": "a18b0f115ff3ee318cd3e141f39fb1cb64b4044b1bcf60fd8a1917eea46faa99"
+    },
+    "rom/part-00015.bin": {
+      "bytes": 19000000,
+      "sha256": "c28abf419d3e0755d10e1a291f811a0dd9cc413f7de8d48e160844b41d1c6032"
+    },
+    "rom/part-00016.bin": {
+      "bytes": 19000000,
+      "sha256": "e13691dba25cae58ff24ba5d7f773b0e55735d9af1772a3aff77943b40920c33"
+    },
+    "rom/part-00017.bin": {
+      "bytes": 19000000,
+      "sha256": "91c88c91f2958b0d6acb769b6c5f011a343cf08a87d18ba67df359d10ac77221"
+    },
+    "rom/part-00018.bin": {
+      "bytes": 19000000,
+      "sha256": "7f3c59cf1e7e82dfc8bde39dd08e2c9bf0d6308bb782453b9b2d83d9ff98e41f"
+    },
+    "rom/part-00019.bin": {
+      "bytes": 19000000,
+      "sha256": "2c93433adc22e6dcacc2b75f185d0984a59acbdd4c19ad585c5f2225a683bb12"
+    },
+    "rom/part-00020.bin": {
+      "bytes": 19000000,
+      "sha256": "85d1400cbb531e5e4c6dfd452645e4b93ee9f4b8d6cee327bee9a3bad67599d8"
+    },
+    "rom/part-00021.bin": {
+      "bytes": 19000000,
+      "sha256": "7b86c6e6825dbb12d22a4233ad7b19aae2c728f1a05bb9ac1799fd3ee791853f"
+    },
+    "rom/part-00022.bin": {
+      "bytes": 19000000,
+      "sha256": "c3ccefa46abed35685f3a6e2773922d356f7a624785ad640dc12c1fa432d2c0f"
+    },
+    "rom/part-00023.bin": {
+      "bytes": 19000000,
+      "sha256": "d2de6e0aaeb7dea4bb2cd2ddc3ebbb50afe9864f31463cf2ca383215aa0ff24c"
+    },
+    "rom/part-00024.bin": {
+      "bytes": 19000000,
+      "sha256": "46768ac4cbaeebf7887b27b740d0062ee5bcadd746128b7c50836acd5105fd5e"
+    },
+    "rom/part-00025.bin": {
+      "bytes": 19000000,
+      "sha256": "24517fedde5f44845a44b7acaef9689b61c343432464b31940fdc7b9ab0eaf86"
+    },
+    "rom/part-00026.bin": {
+      "bytes": 19000000,
+      "sha256": "ebf426c9ad72b88dc09ac72d6647bab5fd21fc14f585d86ff3c879df642df789"
+    },
+    "rom/part-00027.bin": {
+      "bytes": 19000000,
+      "sha256": "8d74554ae69b6d278930e49091d7eee6cc33129c050d345dcb3e7702812fd2d9"
+    },
+    "rom/part-00028.bin": {
+      "bytes": 19000000,
+      "sha256": "b55f00570e15db94769b01b422c9501b33bbe22b8fd45a4e2c22ed85ec0fb687"
+    },
+    "rom/part-00029.bin": {
+      "bytes": 19000000,
+      "sha256": "4e3a9564286516799b4be697b7292da4c6a63e9004e0025a6413b8a2183280ee"
+    },
+    "rom/part-00030.bin": {
+      "bytes": 4216756,
+      "sha256": "fccaa7c7ea1cdd06274cc57f29c77549f18b78fc50016e5eb51450cf87e93705"
+    }
+  },
+  "rom": {
+    "name": "pikmin.rvz",
+    "bytes": 555216756,
+    "parts": [
+      "rom/part-00001.bin",
+      "rom/part-00002.bin",
+      "rom/part-00003.bin",
+      "rom/part-00004.bin",
+      "rom/part-00005.bin",
+      "rom/part-00006.bin",
+      "rom/part-00007.bin",
+      "rom/part-00008.bin",
+      "rom/part-00009.bin",
+      "rom/part-00010.bin",
+      "rom/part-00011.bin",
+      "rom/part-00012.bin",
+      "rom/part-00013.bin",
+      "rom/part-00014.bin",
+      "rom/part-00015.bin",
+      "rom/part-00016.bin",
+      "rom/part-00017.bin",
+      "rom/part-00018.bin",
+      "rom/part-00019.bin",
+      "rom/part-00020.bin",
+      "rom/part-00021.bin",
+      "rom/part-00022.bin",
+      "rom/part-00023.bin",
+      "rom/part-00024.bin",
+      "rom/part-00025.bin",
+      "rom/part-00026.bin",
+      "rom/part-00027.bin",
+      "rom/part-00028.bin",
+      "rom/part-00029.bin",
+      "rom/part-00030.bin"
+    ]
+  }
+}
