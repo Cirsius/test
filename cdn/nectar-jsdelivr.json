@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "root": "https://cdn.jsdelivr.net/gh/SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port@main/dist/jsdelivr/cdn",
+  "root": "https://cdn.jsdelivr.net/gh/Cirsius/test@6ce93c7cf9a3f66650d1434c8cbcb0f6308552b5/cdn",
   "build": {
     "version": 3,
     "revision": "5a949e5c9cf1",
@@ -16,7 +16,7 @@
     "upstream": "270ef2fcb727961bae8679e527be614746f76536",
     "distribution": "jsdelivr"
   },
-  "storage": "nectar-jsdelivr-531b749b7e1ccab0",
+  "storage": "nectar-jsdelivr-fa8c8731773734be",
   "files": {
     "nectar-disc-licenses.txt": {
       "bytes": 817615,
